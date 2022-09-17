@@ -49,5 +49,10 @@
 }
 #subscribe {
   height: 300px;
-  margin-bottom: 100px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
